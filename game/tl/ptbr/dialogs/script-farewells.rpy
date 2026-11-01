@@ -166,7 +166,7 @@ translate ptbr s_farewell_chores_60ab2bc8:
 translate ptbr s_farewell_eat_8901f65e:
 
     # s abhfaoa "Going to eat, [player]?"
-    s abhfaoa "Você vai comer, [player?]"
+    s abhfaoa "Você vai comer, [player]?"
 
 # game/dialogs/script-farewells.rpy:230
 translate ptbr s_farewell_eat_003018ed:
