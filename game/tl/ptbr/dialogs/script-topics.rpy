@@ -4300,7 +4300,7 @@ translate ptbr s_topic_cupcakes_ad2a4c50:
 translate ptbr s_answer_bday_347d395d:
 
     # s abhfaca "To be honest [player], I don't remember my birthday."
-    s abhfaca "Pra ser honesta [player], eu lembro do meu aniversário."
+    s abhfaca "Pra ser honesta [player], eu não lembro do meu aniversário."
 
 # game/dialogs/script-topics.rpy:1797
 translate ptbr s_answer_bday_8792c010:
